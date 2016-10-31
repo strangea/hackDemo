@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <first_property>Hello world!</first_property>
+  <second_property>1223</second_property>
+</Data>
