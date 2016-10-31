@@ -157,6 +157,7 @@ namespace test_project
                         Console.WriteLine("crack        Attempt to bruteforce when asked for password");
                         Console.WriteLine("exploit      Attempt to exploit a port");
                         Console.WriteLine("clear        Clear console screen");
+                        Console.WriteLine("info         Display info on currently connected machine");
                         Console.WriteLine("help         Display this menu");
                         Console.WriteLine("quit         Exit IcarusOS");
                         break;
